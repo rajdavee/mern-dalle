@@ -6,8 +6,6 @@ client/build/
 server/build/
 
 # Environment variables
-.env
-.env.*
 
 # Logs
 *.log
@@ -20,7 +18,6 @@ yarn-error.log*
 Thumbs.db
 
 # IDE/editor files
-.vscode/
 .idea/
 *.suo
 *.ntvs*
@@ -42,3 +39,4 @@ coverage/
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+config.bat
